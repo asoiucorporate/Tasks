@@ -75,5 +75,7 @@ Describe and implement the  (feedPet) method in the Human class, which accepts a
 Литература:
 
 Classes and objects
+
 Constructors
+
 Initializers
