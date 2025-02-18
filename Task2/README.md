@@ -14,6 +14,7 @@ The game ends when the target is defeated. At the end of the game, display the p
 The task must be done using arrays (DO NOT USE THE INTERFACES List, Set, Map).
 
 An example of console output:
+
  0 | 1 | 2 | 3 | 4 | 5 |
  
  1 | - | - | - | - | - |
