@@ -16,10 +16,15 @@ The task must be done using arrays (DO NOT USE THE INTERFACES List, Set, Map).
 An example of console output:
 
  0 | 1 | 2 | 3 | 4 | 5 |
+
  1 | - | - | - | - | - |
+ 
  2 | - | * | * | - | - |
+ 
  3 | * | - | - | * | - | 
+ 
  4 | - | - | - | - | * |
+ 
  5 | * | - | * | - | - |
 
 Advanced complexity. Not necessary for the realization:
